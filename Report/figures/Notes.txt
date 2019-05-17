@@ -1,0 +1,38 @@
+Keeping track of information of folders' and their children file names.
+
+Folder: "1a_explicit (M=25, dt=0.0004)"
+Files: 
+t = 0.01, 0.02, 0.05, 0.1, 0.2, 0.322(ss)
+
+
+Folder: "1a_implicit (M=25, dt=0.0004)"
+Files:
+t = 0.01, 0.02, 0.05, 0.1, 0.2, 0.324(ss)
+
+
+Folder: "1a_implicit (M=25, dt=varies)"
+Files:
+1) dt=0.0004, t=0.324(ss)
+2) dt=0.001, t=0.373(ss)
+3) dt=0.005, t=0.475(ss)
+
+
+Folder: "1b (M=25)"
+Files:
+t=inf
+
+
+Folder: 2 (M=25, dt=0.0004)
+Files:
+t = 0.01, 0.02, 0.05, 0.1, 0.2, 0.4084(ss)
+
+
+Folder: 2 (M=25, dt=varies)
+Files:
+1) dt=0.0004, t=0.4084 (ss)
+2) dt=0.001, t=0.475 (ss)
+3) dt=0.005, t=0.61 (ss)
+
+
+Files:
+pure_silver_dt=0.1_count=10000
